@@ -63,8 +63,7 @@ https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-4mwu5TP_mxA/XrwYLOgQzGI/AAAAAAAABD4/L30FYCTEprs-KFmK8Inj7OfZOX_PMjBywCLcBGAsYHQ/s1600/Inewstv%2Busee.png" group-title="LOKAL",INEWS
 http://vpssg.iptv.my.id:19408/session/dyosCH/local/inews.m3u8
-#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-qSN5t-inkEE/XrwYJFzJYZI/AAAAAAAABDo/byp33XwXo2Upj-pfSOx2Xw2ydybnYpKewCLcBGAsYHQ/s1600/GTV%2BUSEE.png" group-title="LOKAL", GTV
-http://vpssg.iptv.my.id:19408/session/dyosCH/local/gtv.m3u8
+
 
 
 
