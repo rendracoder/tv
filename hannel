@@ -42,24 +42,13 @@ https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-4mwu5TP_mxA/XrwYLOgQzGI/AAAAAAAABD4/L30FYCTEprs-KFmK8Inj7OfZOX_PMjBywCLcBGAsYHQ/s1600/Inewstv%2Busee.png" group-title="LOKAL",INEWS
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?v=2.0.0.13" group-title="LOKAL",MYTV
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 EXTINF:-1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="LOKAL",THE INDONESIA CHANNEL
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LOKAL",BALI TV
-https://cdnbpp1.useetv.com/joss/14/balitv/chunklist_w1304195765_b684100_sleng_238948.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="LOKAL", DAAI TV
-http://vpssg.iptv.my.id:19408/session/dyosCH/local/daiitv.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="LOKAL",ANTARA
-https://cdnjt14.useetv.com/joss/18/antara/chunklist_w1918412950_b684100_sleng.m3u8?enc=X_TjPSnWZCO1fmmYG_Kvhw&exp=1593148696
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="LOKAL",TV EDUKASI
-https://cdnjt14.useetv.com/joss/18/tvedukasi/chunklist_w1535478517_b684100_sleng.m3u8?enc=TBV4861y_Crz9oTZ3d8cJg&exp=1593148817
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="LOKAL",JAKTV
-https://cdn-livetv2.metube.id/hls/jaktv_240/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.13" group-title="LOKAL",CITRA DRAMA
+https://fikrul.my.id/~andriant/tv/citra.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="LOKAL",JTV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13" group-title="LOKAL",Insert
-https://cdnbpp1.useetv.com/joss/14/insert/chunklist_w1857284949_b684100_sleng_122439.m3u8
-
 
 
 
@@ -103,8 +92,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 
 ###### FILM ######
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.13" group-title="LOKAL",CITRA DRAMA
-https://fikrul.my.id/~andriant/tv/citra.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="FILM",IMC
 https://fikrul.my.id/~andriant/tv/imc.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="FILM",ZEE BIOSKOP
