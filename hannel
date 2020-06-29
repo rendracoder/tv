@@ -14,6 +14,7 @@ https://mkctv.my.id/vidio/trans7.m3u8
 https://mkctv.my.id/vidio/transtv.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL",NET
 https://mkctv.my.id/vidio/netsd.m3u8
+https://fikrul.my.id/~andriant/tv/net.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL",RTV
 https://fikrul.my.id/~andriant/tv/rtv.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="LOKAL",TVONE
