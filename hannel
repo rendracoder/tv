@@ -174,9 +174,9 @@ http://www.stgiptv.online/Explore_dyos/Live/HBO/red.m3u8
 ###### MUSIK #####
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="MUSIK",CITRA DANGDUT
-http://iptv.burhansyam.com/useetv/citradangdut.m3u8
+https://fikrul.my.id/~andriant/tv/dangdut.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title="MUSIK",Prambors
-http://iptv.burhansyam.com/useetv/pramborstv.m3u8
+https://fikrul.my.id/~andriant/tv/prambors.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_allegro_small1.png?v=2.0.0.13" group-title="MUSIK",T MUSIK
 https://cdnbpp1.useetv.com/joss/14/tmusic/chunklist_w870068905_b684100_sleng_138940.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/651808054439100416/Xo7HM7O3_400x400.jpg" group-title="MUSIK",Karaoke
@@ -192,21 +192,21 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="ANAK-ANAK",BABY FIRST
 http://iptv.burhansyam.com/useetv/animax.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="ANAK-ANAK",ANIPLUS
-https://cdnbpp1.useetv.com/joss/14/aniplus/chunklist_w1954952247_b684100_sleng_275121.m3u8
+http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="ANAK-ANAK",DUNIA ANAK
-http://iptv.burhansyam.com/useetv/duniaanak.m3u8
+https://fikrul.my.id/~andriant/tv/anak.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="ANAK-ANAK",BOOMERANG
-http://iptv.burhansyam.com/useetv/boomerang.m3u8
+https://fikrul.my.id/~andriant/tv/bomerang.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="ANAK-ANAK",NICKELODEON
-http://iptv.burhansyam.com/useetv/nickelodeon.m3u8
+https://fikrul.my.id/~andriant/tv/nick.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="ANAK-ANAK",CARTOON NETWORK
-http://iptv.burhansyam.com/useetv/cartoonnetwork.m3u8
+https://fikrul.my.id/~andriant/tv/carton.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png?v=2.0.0.13" group-title="ANAK-ANAK",SPACETOON PLUS
-https://cdnbpp1.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
+https://fikrul.my.id/~andriant/tv/spacetoon.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="ANAK-ANAK",HOREE
-http://iptv.burhansyam.com/useetv/horee.m3u8
+https://fikrul.my.id/~andriant/tv/hore.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="ANAK-ANAK",Nick JR
-http://iptv.burhansyam.com/useetv/nickjr.m3u8
+https://fikrul.my.id/~andriant/tv/nickjr.m3u8
 #EXTINF:-1  tvg-logo="https://www.kindpng.com/picc/m/19-194781_disney-junior-disney-channel-the-walt-disney-company.png" group-title="ANAK-ANAK",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
 #EXTINF:-1  tvg-logo="http://www.gesil.in/images/logo-gem-kids.gif" group-title="ANAK-ANAK",GEM KIDS
@@ -217,6 +217,10 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/Larva_island_logo.png" group-title="ANAK-ANAK",Larva TV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02dMgRT2/a1aaf240241a7d4a09876453209b531e.png" group-title="ANAK-ANAK",DISNEY MOVIE
+http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="ANAK-ANAK",Animal Planet
+https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
 
 ###### PENGETAHUAN ######
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="PENGETAHUAN",NAT GEO PEOPLE
@@ -314,11 +318,11 @@ https://cdnbpp1.useet
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Korea",TVN
 https://fikrul.my.id/~andriant/tv/tvn.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="Korea",K Plus
-https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w1091988068_b894100_sleng_80941.m3u8
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png?v=2.0.0.13" group-title="Korea",Sony One
 https://fikrul.my.id/~andriant/tv/sone.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Korea",Sony Gem
-https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w2048588563_b894100_sleng_papabor.m3u8
+https://fikrul.my.id/~andriant/tv/gem.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png" group-title="Korea",SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1280px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="Korea",SBS Korea
