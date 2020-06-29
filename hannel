@@ -86,15 +86,16 @@ http://iptv.burhansyam.com/useetv/foxsport3.m3u8
 https://cdnbpp1.useetv.com/joss/14/egg/chunklist_w1805008036_b684100_sleng_122487.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="OLAHRAGA", NBA TV
 https://cdnbpp1.useetv.com/joss/15/nba/chunklist_w1353259665_b1344100_sleng_79873.m3u8
-#EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/afc53720-a686-4376-8ab3-a910f1821c0e_original-4.png" group-title="Sport",True Premiere Football HD2
+#EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/afc53720-a686-4376-8ab3-a910f1821c0e_original-4.png" group-title="OLAHRAGA",True Premiere Football HD2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/afc53720-a686-4376-8ab3-a910f1821c0e_original-4.png" group-title="Sport",True Premiere Football HD1
+#EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/afc53720-a686-4376-8ab3-a910f1821c0e_original-4.png" group-title="OLAHRAGA",True Premiere Football HD1
 http://smkn1mpw.sch.id/tv/ingris.m3u8
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-33Hvxlmoky4/XrwYOJWcOOI/AAAAAAAABEg/TOhWwrGm4mARynndZB-U54Gd7qgjj7sGACLcBGAsYHQ/s1600/Premier%2BFootball.png" group-title="OLAHRAGA", PREMEIR FOOTBALL
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1220934322225467392/zwEoY5Ep_400x400.jpg" group-title="Sport",Mola Sport
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1220934322225467392/zwEoY5Ep_400x400.jpg" group-title="OLAHRAGA",Mola Sport
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/05.m3u8?app_type=web&userid=0n128n6xf4&tkn=I8PLN5GATXUOR45HOTKC5KGF8QS3UWA1&chname=Mola_Sports_Free_Trial-
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Sport",TVRI SPORT
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="OLAHRAGA",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 
