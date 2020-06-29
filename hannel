@@ -190,7 +190,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 ###### ANAK-ANAK ######
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="ANAK-ANAK",BABY FIRST
-http://iptv.burhansyam.com/useetv/animax.m3u8
+https://fikrul.my.id/~andriant/tv/spacetoon.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="ANAK-ANAK",ANIPLUS
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="ANAK-ANAK",DUNIA ANAK
@@ -202,7 +202,7 @@ https://fikrul.my.id/~andriant/tv/nick.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="ANAK-ANAK",CARTOON NETWORK
 https://fikrul.my.id/~andriant/tv/carton.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png?v=2.0.0.13" group-title="ANAK-ANAK",SPACETOON PLUS
-https://fikrul.my.id/~andriant/tv/spacetoon.m3u8
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="ANAK-ANAK",HOREE
 https://fikrul.my.id/~andriant/tv/hore.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="ANAK-ANAK",Nick JR
