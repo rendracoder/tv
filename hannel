@@ -1,9 +1,9 @@
 #EXTM3U
 ######## LOKAL #########
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL",INDOSIAR
-https://mkctv.my.id/vidio/indosiarsd.m3u8
+https://fikrul.my.id/~andriant/tv/indosiar.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL",SCTV
-http://smkn1mpw.sch.id/tv/sctv.m3u8
+https://fikrul.my.id/~andriant/tv/sctv.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="LOKAL",ANTV
 http://smkn1mpw.sch.id/tv/antv.m3u8
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-qSN5t-inkEE/XrwYJFzJYZI/AAAAAAAABDo/byp33XwXo2Upj-pfSOx2Xw2ydybnYpKewCLcBGAsYHQ/s1600/GTV%2BUSEE.png" group-title="LOKAL",GTV
