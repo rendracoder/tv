@@ -80,7 +80,7 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 http://smkn1mpw.sch.id/tv/foxs1.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="OLAHRAGA",FOX SPORTS 2
 http://smkn1mpw.sch.id/tv/foxs2.m3u8
-#EXTINF:-1 tvg-id="FOXSports3.my" tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="Sport",Fox Sport 3
+#EXTINF:-1 tvg-id="FOXSports3.my" tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="OLAHRAGA",Fox Sport 3
 http://iptv.burhansyam.com/useetv/foxsport3.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="OLAHRAGA",EGG NETWORK
 https://cdnbpp1.useetv.com/joss/14/egg/chunklist_w1805008036_b684100_sleng_122487.m3u8
