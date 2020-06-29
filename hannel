@@ -5,7 +5,7 @@ https://fikrul.my.id/~andriant/tv/indosiar.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL",SCTV
 https://fikrul.my.id/~andriant/tv/sctv.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="LOKAL",ANTV
-http://smkn1mpw.sch.id/tv/antv.m3u8
+http://210.210.155.35/session/2bbca7f2-ba27-11ea-8c9d-9ccc97138ac9/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-qSN5t-inkEE/XrwYJFzJYZI/AAAAAAAABDo/byp33XwXo2Upj-pfSOx2Xw2ydybnYpKewCLcBGAsYHQ/s1600/GTV%2BUSEE.png" group-title="LOKAL",GTV
 https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="LOKAL",TRANS7
