@@ -69,9 +69,9 @@ http://iptv.burhansyam.com/useetv/useesport.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="OLAHRAGA",USEESPORT 2
 https://cdnbpp1.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="OLAHRAGA",CHAMPION 1
-https://dl.dropboxusercontent.com/s/se48ph5i92rbquz/Champ1.m3u8?dl=0
+https://fikrul.my.id/~andriant/tv/champion.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="OLAHRAGA",CHAMPION 2
-https://dl.dropboxusercontent.com/s/se48ph5i92rbquz/Champ1.m3u8?dl=0
+https://fikrul.my.id/~andriant/tv/champion2.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="OLAHRAGA",BEIN SPORT 1
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA",BEIN SPORT 3
