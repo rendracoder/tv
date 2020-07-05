@@ -15,7 +15,7 @@ http://mkctv.net/vidio/transtv.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL",NET
 http://mkctv.net/vidio/netsd.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL",RTV
-https://fikrul.my.id/~andriant/tv/rtv.m3u8
+https://cdn-livetv5.metube.id/hls/rtv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="LOKAL",TVONE
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="LOKAL",Metro TV
@@ -25,9 +25,9 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="LOKAL",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="LOKAL",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="LOKAL",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
+https://cdnrrinet.rri.co.id/rrinet/live_360p/chunklist_w317703976.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="LOKAL",TVRI
 http://stream1.ninmedia.tv:1935/tvrinasional/udp.stream_360p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="LOKAL",TVRI NASIONAL
@@ -47,21 +47,14 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.13" group-title="LOKAL",CITRA DRAMA
 https://fikrul.my.id/~andriant/tv/citra.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="LOKAL",JTV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="MUSIK",CITRA DANGDUT
+http://103.148.44.22:8876/play/a0gz
 
 
 
 ###### OLAHRAGA ######
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="OLAHRAGA",USEESPORT 1
-https://fikrul.my.id/~andriant/tv/usesport.m3u8
-https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="OLAHRAGA",USEESPORT 2
-https://fikrul.my.id/~andriant/tv/usesport2.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="OLAHRAGA",CHAMPION 1
-https://fikrul.my.id/~andriant/tv/champion.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="OLAHRAGA",CHAMPION 2
-https://fikrul.my.id/~andriant/tv/champion2.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="OLAHRAGA",BEIN SPORT 1
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA",BEIN SPORT 3
@@ -72,11 +65,6 @@ https://fikrul.my.id/~andriant/tv/foxs1.m3u8
 https://fikrul.my.id/~andriant/tv/foxs2.m3u8
 #EXTINF:-1 tvg-id="FOXSports3.my" tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="OLAHRAGA",Fox Sport 3
 https://fikrul.my.id/~andriant/tv/foxs3.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="OLAHRAGA",EGG NETWORK
-https://cdnbpp1.useetv.com/joss/14/egg/chunklist_w1805008036_b684100_sleng_122487.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="OLAHRAGA", NBA TV
-https://cdnbpp1.useetv.com/joss/15/nba/chunklist_w1353259665_b1344100_sleng_79873.m3u8
 #EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/afc53720-a686-4376-8ab3-a910f1821c0e_original-4.png" group-title="OLAHRAGA",True Premiere Football HD2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/afc53720-a686-4376-8ab3-a910f1821c0e_original-4.png" group-title="OLAHRAGA",True Premiere Football HD1
