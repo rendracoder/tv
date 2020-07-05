@@ -44,11 +44,9 @@ https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 EXTINF:-1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="LOKAL",THE INDONESIA CHANNEL
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.13" group-title="LOKAL",CITRA DRAMA
-https://fikrul.my.id/~andriant/tv/citra.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="MUSIK",CITRA DANGDUT
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="LOKAL",CITRA DANGDUT
 http://103.148.44.22:8876/play/a0gz
 
 
