@@ -2,7 +2,7 @@
 ######## LOKAL #########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LOKAL",Usee Photo
 https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/your/costumer/service/we/cant/report/the/bug/in/your/iptv/useephoto.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="USEETV Lokal",Usee Prime
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="LOKAL",Usee Prime
 https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/your/costumer/service/we/cant/report/the/bug/in/your/iptv/useeprime.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png?v=2.0.0.14" group-title="LOKAL",IDKU
 https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/your/costumer/service/we/cant/report/the/bug/in/your/iptv/idku.m3u8
@@ -64,7 +64,7 @@ https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/you
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="OLAHRAGA",BEIN SPORT 1
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA",BEIN SPORT 3
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA",BEIN SPORT 2
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA",FOX SPORTS 1
 https://fikrul.my.id/~andriant/tv/foxs1.m3u8
