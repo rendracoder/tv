@@ -61,6 +61,10 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/your/costumer/service/we/cant/report/the/bug/in/your/iptv/jaktv.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="LOKAL",TV EDUKASI
 https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/your/costumer/service/we/cant/report/the/bug/in/your/iptv/tvedukasi.m3u8
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LOKAL",BALI TV
+https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/your/costumer/service/we/cant/report/the/bug/in/your/iptv/balitv.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="LOKAL", DAAI TV
+https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/your/costumer/service/we/cant/report/the/bug/in/your/iptv/daaitv.m3u8
 
 ###### OLAHRAGA ######
 
