@@ -12,7 +12,7 @@ https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/you
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.13" group-title="LOKAL",CITRA DRAMA
 http://ikasalon.com/cgi_bin/vidio/m3u/6401-citra-drama-prime.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL",INDOSIAR
-https://mkctv.net/vidio/rtv.m3u8/indosiar.m3u8
+https://mkctv.net/vidio/rtv.m3u8/Indosiar.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL",SCTV
 https://fikrul.my.id/~andriant/tv/sctv.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="LOKAL",ANTV
