@@ -67,6 +67,8 @@ https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/you
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA",BEIN SPORT 2
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA",BEIN SPORT 3
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA",FOX SPORTS 1
 https://fikrul.my.id/~andriant/tv/foxs1.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="OLAHRAGA",FOX SPORTS 2
