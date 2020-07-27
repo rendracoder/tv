@@ -8,14 +8,13 @@ https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/you
 https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/your/costumer/service/we/cant/report/the/bug/in/your/iptv/idku.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="LOKAL", IDX
 https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/your/costumer/service/we/cant/report/the/bug/in/your/iptv/idx.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.13" group-title="LOKAL",CITRA DRAMA
-http://ikasalon.com/cgi_bin/vidio/m3u/6401-citra-drama-prime.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL",INDOSIAR
-https://mkctv.my.id/.tvje./indosiar.m3u8
+http://45.126.83.51/session/71c91404-d009-11ea-b6c3-bbce8ca5d42d/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL",SCTV
 https://mkctv.my.id/.tvje./sctvhd.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="LOKAL",ANTV
-#https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/your/costumer/service/we/cant/report/the/bug/in/your/iptv/antv.m3u8
+http://210.210.155.35/session/6de457ae-d009-11ea-9322-9803b32b7513/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-qSN5t-inkEE/XrwYJFzJYZI/AAAAAAAABDo/byp33XwXo2Upj-pfSOx2Xw2ydybnYpKewCLcBGAsYHQ/s1600/GTV%2BUSEE.png" group-title="LOKAL",GTV
 https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="LOKAL",TRANS7
@@ -110,31 +109,25 @@ https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
 https://fikrul.my.id/~andriant/tv/imc.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="FILM",ZEE BIOSKOP
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="FILM",FLIK
-https://fikrul.my.id/~andriant/tv/filk.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="FILM",GALAXY
-https://fikrul.my.id/~andriant/tv/galaxi.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="FILM",Thrill
-https://fikrul.my.id/~andriant/tv/thrill.m3u8
-#http://rr2.dens.tv/s/s34/index1.m3u8
+http://rr2.dens.tv/s/s34/index1.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="FILM",CELESTIAL MOVIE
-https://fikrul.my.id/~andriant/tv/imc.m3u8
-#http://rr2.dens.tv/s/s33/index.m3u8
+http://rr2.dens.tv/s/s33/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="FILM",CHINESE DRAMA
 https://livedoomovies.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="FILM",LIFE TIME
 https://cdnbpp1.useetv.com/joss/14/lifetime/chunklist_w98933788_b684100_sleng_275119.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="FILM",BLUE ANT ENTERTIMENT
-https://dl.dropbox.com/s/k8k5j1k3bkeyhzg/Blue_Ant.m3u8?dl=0
-#http://210.210.155.35/dr9445/h/h16/02.m3u8
+http://210.210.155.35/dr9445/h/h16/02.m3u8
 #EXTINF:-1  tvg-logo="https://zaltvku.com/file/img/logo_bluextreme_small.png" group-title="FILM",BLUE ANT EXTREME
-https://dl.dropbox.com/s/f7iuf0a28cv24vy/Blue_Ant_Extreme.m3u8?dl=0
+http://45.126.83.51/dr9445/h/h15/01.m3u8 
 #http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="FILM",WARNER WB
 https://fikrul.my.id/~andriant/tv/warner.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="FILM",KIX
-https://fikrul.my.id/~andriant/tv/kix.m3u8
-#http://210.210.155.66/h/h07/01.m3u8
+http://210.210.155.66/h/h07/01.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="FILM",CINEMA WORLD
 https://dl.dropbox.com/s/19efc4chhm9ahip/Cinema_World.m3u8?dl=0
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="FILM",AXN
