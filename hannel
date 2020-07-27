@@ -268,11 +268,11 @@ https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/you
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="korea",ARIRANG
 https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/your/costumer/service/we/cant/report/the/bug/in/your/iptv/arirang.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Korea",TVN
-https://fikrul.my.id/~andriant/tv/tvn.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="Korea",K Plus
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="Korea",K Plus
+http://210.210.155.35/uq2663/h/h08/index.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png?v=2.0.0.13" group-title="Korea",Sony One
-https://fikrul.my.id/~andriant/tv/sone.m3u8
+http://45.126.83.51:80/uq2663/h/h143/01.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Korea",Sony Gem
 https://fikrul.my.id/~andriant/tv/gem.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png" group-title="Korea",SBS Plus
