@@ -46,11 +46,9 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png" group-title="LOKAL",CNBC Indonesia 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-IJ4OfV8XCRM/XrwYPNAm56I/AAAAAAAABEs/98rMmd0KCLcO2Our_NmwjO6o-ROqdZZwgCLcBGAsYHQ/s1600/RCTI%2BUSEE.png" group-title="LOKAL",RCTI
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+https://dl.dropbox.com/s/rurf6j98vbbq2qc/rcti.m3u8?dl=0
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-OyYPR-h-1p4/XrwYMVWqVmI/AAAAAAAABEI/q6A09j_t-E0_rVz107YKQ9uuEQVdX3_VACLcBGAsYHQ/s1600/MNC%2BUsee.png" group-title="LOKAL",MNC HD
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
-#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-4mwu5TP_mxA/XrwYLOgQzGI/AAAAAAAABD4/L30FYCTEprs-KFmK8Inj7OfZOX_PMjBywCLcBGAsYHQ/s1600/Inewstv%2Busee.png" group-title="LOKAL",INEWS
-https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
+https://dl.dropbox.com/s/9frb7q2xlzowxmh/mnctv.m3u8?dl=0
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?v=2.0.0.13" group-title="LOKAL",MYTV
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 EXTINF:-1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="LOKAL",THE INDONESIA CHANNEL
